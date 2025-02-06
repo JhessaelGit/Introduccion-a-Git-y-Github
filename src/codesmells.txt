@@ -1,0 +1,5 @@
+en la clase calcular dadena
+Ok-La funcion optener numeros no deja en claro que esta opteniendo un array
+Ok-La variable numeros no deja tan en claro que es un array de numeros
+OK-El nombre Calcular Cadena no explica que exactamente calcula la funcion
+Ok-Condicion De while confusa en la funcion optenerArrayDeNumerosDeUnaCadena
